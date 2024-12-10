@@ -1,5 +1,6 @@
 # 🎓 Student Performance Analysis Dashboard  
 
+![Student Performance Dashboard Cover Photo_1](https://github.com/user-attachments/assets/06801b6b-12a7-4ff9-aba6-8182f4a23275)
 
 ## 📊 Overview  
 The **Student Performance Analysis Dashboard** is designed to provide insights into the academic performance of students and its correlation with various demographic, lifestyle, and educational factors. It is an essential tool for educators and school administrators to understand and address factors affecting student success.  
