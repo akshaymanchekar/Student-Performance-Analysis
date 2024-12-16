@@ -5,7 +5,7 @@
 ## 📊 Overview  
 The **Student Performance Analysis Dashboard** is designed to provide insights into the academic performance of students and its correlation with various demographic, lifestyle, and educational factors. It is an essential tool for educators and school administrators to understand and address factors affecting student success.  
 
----
+<br>
 
 ## 🗂️ Data Overview  
 
@@ -17,7 +17,7 @@ The project uses a dataset containing **30,641 rows** of student data from schoo
 - **Study and Performance**:  
   - `Weekly Study Hours`, `Math Score`, `Reading Score`, `Writing Score`.  
 
----
+<br>
 
 ## 📈 Dashboard Features  
 
@@ -30,7 +30,7 @@ This page summarizes critical metrics for quick insights:
   - **Average Weekly Study Hours**.  
   - **Number of Ethnic Groups**.  
 
----
+<br>
 
 ### **📍 Detailed Visualizations**  
 #### **1. Demographics Analysis**  
@@ -51,7 +51,7 @@ This page summarizes critical metrics for quick insights:
   - Number of students based on their **Parent's Education Levels**:  
     - `High School`, `Bachelor's Degree`, `Master's Degree`, `Associate Degree`.  
 
----
+<br>
 
 ## 📌 Key Insights  
 
@@ -66,14 +66,14 @@ This page summarizes critical metrics for quick insights:
 - The **average weekly study hours** indicate a strong correlation with performance in **Math**, **Reading**, and **Writing** scores.  
 - Students whose parents have **higher education levels** tend to perform better academically.  
 
----
+<br>
 
 ## 🛠️ Tools and Technologies  
 - **Power BI**: For building interactive dashboards and visualizations.  
 - **SQL**: For preprocessing and querying the dataset.  
 - **Excel**: For initial data exploration.  
 
----
+<br>
 
 ## 🌟 Why This Dashboard?  
 The **Student Performance Analysis Dashboard** helps:  
@@ -82,11 +82,12 @@ The **Student Performance Analysis Dashboard** helps:
 - Provide actionable insights for **educational planning** and **resource allocation**.  
 - Tailor programs to improve the **academic success** of students.  
 
----
+<br>
 
 ## 📸 Dashboard Snapshots  
 ![Student Performance Dashboard_SS_1](https://github.com/user-attachments/assets/f8440bbf-5b07-40f0-ab52-7d50fc965457)
 
+<br>
 
 <p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
 
